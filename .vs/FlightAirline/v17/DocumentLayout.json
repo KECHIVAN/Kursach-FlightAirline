@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\flightairline\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\flightairline\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|solutionrelative:models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\flightairline\\models\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|solutionrelative:models\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\flightairline\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|solutionrelative:models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\flightairline\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\flightairline\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\flightairline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\flightairline\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|solutionrelative:controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\flightairline\\controllers\\flightupdatelogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|solutionrelative:controllers\\flightupdatelogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\flightairline\\controllers\\trackedflightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|solutionrelative:controllers\\trackedflightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\flightairline\\controllers\\airportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|solutionrelative:controllers\\airportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\flightairline\\models\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|solutionrelative:models\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\flightairline\\data\\airportschedulecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|solutionrelative:data\\airportschedulecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\flightairline\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\flightairline\\models\\trackedflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|solutionrelative:models\\trackedflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\flightairline\\models\\flightupdatelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|solutionrelative:models\\flightupdatelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\flightairline\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|solutionrelative:models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\flightairline\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|solutionrelative:extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\flightairline\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|solutionrelative:nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\flightairline\\flightairline.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|solutionrelative:flightairline.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Migrations\\20250420135432_AddUsersTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250420135432_AddUsersTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0418\u0432\u0430\u043D\\Desktop\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Migrations\\20250415130852_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250415130852_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\source\\repos\\flightairline\\flightairline.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25848ECA-911C-4862-A8F5-F193745A9664}|FlightAirline.csproj|solutionrelative:flightairline.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 49,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\Desktop\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\Desktop\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:07:43.903Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAuwFQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:36:15.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FlightUpdateLogsController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Controllers\\FlightUpdateLogsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FlightUpdateLogsController.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Controllers\\FlightUpdateLogsController.cs",
+              "RelativeToolTip": "Controllers\\FlightUpdateLogsController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:54:18.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-15T13:13:18.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Models\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Models\\RegisterDto.cs",
+              "RelativeToolTip": "Models\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:50:49.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Models\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Models\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Models\\LoginDto.cs",
+              "RelativeToolTip": "Models\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:51:37.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAuwG8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:53:21.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:49:22.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Airport.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Models\\Airport.cs",
+              "RelativeDocumentMoniker": "Models\\Airport.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Models\\Airport.cs",
+              "RelativeToolTip": "Models\\Airport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:56:57.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TrackedFlightsController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Controllers\\TrackedFlightsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrackedFlightsController.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Controllers\\TrackedFlightsController.cs",
+              "RelativeToolTip": "Controllers\\TrackedFlightsController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:54:29.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FlightDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Models\\FlightDto.cs",
+              "RelativeDocumentMoniker": "Models\\FlightDto.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Models\\FlightDto.cs",
+              "RelativeToolTip": "Models\\FlightDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:04:10.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FlightsController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Controllers\\FlightsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FlightsController.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Controllers\\FlightsController.cs",
+              "RelativeToolTip": "Controllers\\FlightsController.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAewLIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:54:06.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AirportsController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Controllers\\AirportsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AirportsController.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Controllers\\AirportsController.cs",
+              "RelativeToolTip": "Controllers\\AirportsController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:53:51.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-15T13:55:21.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TrackedFlight.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Models\\TrackedFlight.cs",
+              "RelativeDocumentMoniker": "Models\\TrackedFlight.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Models\\TrackedFlight.cs",
+              "RelativeToolTip": "Models\\TrackedFlight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:57:43.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AirportScheduleContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Data\\AirportScheduleContext.cs",
+              "RelativeDocumentMoniker": "Data\\AirportScheduleContext.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Data\\AirportScheduleContext.cs",
+              "RelativeToolTip": "Data\\AirportScheduleContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:58:05.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FlightUpdateLog.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Models\\FlightUpdateLog.cs",
+              "RelativeDocumentMoniker": "Models\\FlightUpdateLog.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Models\\FlightUpdateLog.cs",
+              "RelativeToolTip": "Models\\FlightUpdateLog.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:57:28.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Models\\Flight.cs",
+              "RelativeDocumentMoniker": "Models\\Flight.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Models\\Flight.cs",
+              "RelativeToolTip": "Models\\Flight.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:57:09.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "Extensions\\ServiceExtensions.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:44:43.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\nlog.config",
+              "RelativeDocumentMoniker": "nlog.config",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\nlog.config",
+              "RelativeToolTip": "nlog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-15T12:52:54.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FlightAirline.http",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\FlightAirline.http",
+              "RelativeDocumentMoniker": "FlightAirline.http",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\FlightAirline.http",
+              "RelativeToolTip": "FlightAirline.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-21T14:03:31.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250420135432_AddUsersTable.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Migrations\\20250420135432_AddUsersTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250420135432_AddUsersTable.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Migrations\\20250420135432_AddUsersTable.cs",
+              "RelativeToolTip": "Migrations\\20250420135432_AddUsersTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:54:33.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250415130852_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Migrations\\20250415130852_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250415130852_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\Migrations\\20250415130852_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250415130852_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:08:53.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FlightAirline.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\FlightAirline.csproj",
+              "RelativeDocumentMoniker": "FlightAirline.csproj",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\repos\\FlightAirline\\FlightAirline.csproj",
+              "RelativeToolTip": "FlightAirline.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T12:12:41.505Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

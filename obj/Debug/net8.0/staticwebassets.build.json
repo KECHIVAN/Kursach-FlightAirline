@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "RdDnRWmCdmbloHjTm4pxanMnk8VNW8zZXJqPKdjVlCA=",
+  "Source": "FlightAirline",
+  "BasePath": "_content/FlightAirline",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
